@@ -1,5 +1,5 @@
-# Servicios-de-campo
-Este repositorio contiene el módulo field-service desarrollado por la comunidad para la versión 16 de Odoo. Este módulo ha sido modificado para ofrecer una gestión eficiente de servicios de campo, migrando algunas de las funcionalidades presentes en la versión para Odoo 14.
+# Servicios de campo
+Este repositorio contiene el módulo field-service, desarrollado por la comunidad para la versión 16 de Odoo. Este módulo ha sido modificado para ofrecer una gestión eficiente de servicios de campo, migrando algunas de las funcionalidades presentes en la versión para Odoo 14.
 
 ## Características destacadas:
 
